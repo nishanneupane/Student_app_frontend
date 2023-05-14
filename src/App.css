@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* *{
+  background-color: black;
+  color: white;
+  background: transparent;
+  background: linear-gradient(0deg,rgba(0,0,0,0),rgba(1,0,0,1));
+  
+} */
+

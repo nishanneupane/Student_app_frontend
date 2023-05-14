@@ -1,0 +1,12 @@
+.setColor{
+    background: linear-gradient(to top,rgba(0,0,0,0),rgba(0,0,0,1));
+}
+.navbar-color-white{
+    color: white;
+}
+.navbar-color-white:hover{
+    color: whitesmoke;
+}
+.custom-navbar{
+    background: linear-gradient(0deg,rgba(0,0,0,0),rgba(1,0,0,1));
+}
